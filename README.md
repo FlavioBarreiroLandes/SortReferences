@@ -6,3 +6,6 @@ This is a simple program to perform the sorting of bibliographic references. It 
 
 # Implementation
 The project was developed using the Java programming language and the NetBeans Integrated Development Environment in its version 8.2.
+
+# License
+SortReferences uses [MIT License](./LICENSE).
